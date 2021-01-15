@@ -1,0 +1,6 @@
+{
+  "defaultCommandTimeout": 2000,
+  "baseUrl": "https://www.queroquitar.com.br/",
+  "viewportWidth": 1360,
+  "viewportHeight": 790
+}
